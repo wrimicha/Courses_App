@@ -6,17 +6,17 @@ Courses Navigator is an application designed to make keeping track of your cours
 
 
 # 🛠 Features
-#### • Courses Home
-# • Notifications
-# • Task Manager
-# • News Feed
-# • For You Page
-# • Assignments
-# • Lecture Notes
-# • Live Grade Updates
-# • Peer-to-peer messaging
-# • Peer-to-teacher messaging
-# • Groups / Clubs
+####  • Courses Home
+####  • Notifications
+####  • Task Manager
+####  • News Feed
+####  • For You Page
+####  • Assignments
+####  • Lecture Notes
+####  • Live Grade Updates
+####  • Peer-to-peer messaging
+####  • Peer-to-teacher messaging
+####  • Groups / Clubs
 
 # 👀 Prototype
 
