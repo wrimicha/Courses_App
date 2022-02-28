@@ -24,6 +24,16 @@ Courses Navigator is an application designed to make keeping track of your cours
 
 
 
+# ⏱ New/Future Features
+####  • Custom organization of resources (Assignments, Lecture notes, etc), and additional filtering criteria
+####  • Incorporation of a map of locations of the users school to help them navigate the halls
+####  • Custom page for keeping track of assignments and other events in a visual layout, allowing you to change the theme add images, set reminders, etc
+####  • Adding widgets to the homescreen / lockscreen to provide quick access to relevant information
+####  • Friends page, send gifs, emojis, and play mini games with leaderboards against friends and classmates
+####  • Smartwatch / Apple watch integration
+
+
+
 
 
 
