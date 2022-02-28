@@ -23,6 +23,9 @@ Courses Navigator is an application designed to make keeping track of your cours
 ![Screen Shot 2022-02-27 at 9 50 16 PM](https://user-images.githubusercontent.com/60019847/155916154-f6bd2fa7-589d-485f-8cc9-c95ba24df8ae.png)
 
 
+# 📹 Demo Video
+
+
 
 # ⏱ New/Future Features
 ####  • Custom organization of resources (Assignments, Lecture notes, etc), and additional filtering criteria
@@ -33,7 +36,10 @@ Courses Navigator is an application designed to make keeping track of your cours
 ####  • Smartwatch / Apple watch integration
 
 
-
+# 🔗 Links
+####  Github: 
+####  Figma: https://www.figma.com/file/tjbpwF7Tx8ypJ49xha7klH/HCI_A2?node-id=0%3A1
+####  Demo Video: 
 
 
 
