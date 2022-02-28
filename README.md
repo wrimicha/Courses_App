@@ -37,7 +37,7 @@ https://sheridanc-my.sharepoint.com/:v:/g/personal/wrimicha_shernet_sheridancoll
 
 
 # 🔗 Links
-####  Github: 
+####  Github: https://github.com/wrimicha/Courses_App
 ####  Figma: https://www.figma.com/file/tjbpwF7Tx8ypJ49xha7klH/HCI_A2?node-id=0%3A1
 ####  Demo Video: https://sheridanc-my.sharepoint.com/:v:/g/personal/wrimicha_shernet_sheridancollege_ca/EdTnhIowJGBLkYzvgXuKWjUBS1rSUNYdcgLVV7lZDDrVsg?e=o0dzyG
 
