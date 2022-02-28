@@ -6,7 +6,7 @@ Courses Navigator is an application designed to make keeping track of your cours
 
 
 # 🛠 Features
-# • Courses Home
+#### • Courses Home
 # • Notifications
 # • Task Manager
 # • News Feed
