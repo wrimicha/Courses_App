@@ -24,7 +24,7 @@ Courses Navigator is an application designed to make keeping track of your cours
 
 
 # 📹 Demo Video
-https://sheridanc-my.sharepoint.com/:v:/g/personal/wrimicha_shernet_sheridancollege_ca/EdTnhIowJGBLkYzvgXuKWjUBS1rSUNYdcgLVV7lZDDrVsg?e=o0dzyG
+https://sheridanc-my.sharepoint.com/:v:/g/personal/wrimicha_shernet_sheridancollege_ca/EdTnhIowJGBLkYzvgXuKWjUBS1rSUNYdcgLVV7lZDDrVsg?e=t9E4Yr
 
 
 # ⏱ New/Future Features
